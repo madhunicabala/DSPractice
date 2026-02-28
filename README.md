@@ -1,2 +1,2 @@
-# DSPractice
-This is a repo that contains all the basic data structures and respective operations such as Create, Delete, Find andModify. This is a foundational repo to understand each and every datastructure in detail. 
+This Repository contains everything you need to know about C Programming tailored for DPDK, Networking / Linux based roles.
+Start building the data structure from scratch in C to solidify your fundamentals.
